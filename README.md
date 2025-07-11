@@ -7,6 +7,7 @@
 ```sh
 deno -A example.js
 ```
+- sample music: [河和田小学校のテーマ](https://fukuno.jig.jp/4727) CC BY taisukef
 
 ## reference
 
